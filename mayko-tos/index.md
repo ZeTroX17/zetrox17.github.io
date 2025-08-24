@@ -1,6 +1,6 @@
 ---
 title: Mayko | Terms of Service
-layout: page
+layout: default
 ---
 
 # Terms of Service – Mayko Webscraper
