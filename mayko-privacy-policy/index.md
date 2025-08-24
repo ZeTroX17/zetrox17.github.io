@@ -28,7 +28,7 @@ We **do not** collect emails, phone numbers, payment data, or messages unrelated
 - **Trackers & preferences**: kept **only while** an item is actively tracked. If you remove a tracker (or remove the bot from a server), the associated data is removed in the normal course of operation.  
 - **Operational logs**: retained for a short period necessary to troubleshoot and ensure stability, then deleted or anonymized.
 
-**Development storage**: locally hosted
+**Development storage**: locally hosted  
 **Production storage**: hosted at **Hetzner** (EU).
 
 ## 4) Sharing & Processors
